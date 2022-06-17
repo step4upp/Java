@@ -1,7 +1,9 @@
-This is personal Java practicing repository.
+This is personal Code practicing repository.
 
 There might be more exercises that I have done from online courses (or sometimes practicing by myself).
 
-I opened it for others see and get some advise how to improve my skills on Java.
+I opened it for others see and get some advise how to improve my skills on any computer language.
 
-You can add some Java exercises that will help me and the others, who accidentally visit this place, want to improve.
+You can add exercises that you have made or done.
+
+It will help me and the others, who accidentally visit this place, want to improve.
